@@ -428,3 +428,100 @@
 2023-01-17 18:47:43,287 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-17 18:47:43,290 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
 2023-01-17 18:47:55,295 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 18:47:55,300 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 18:47:55,304 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:20:13,058 [Worker-60: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:20:13,086 [Worker-60: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:20:13,088 [Worker-60: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:29:47,399 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:29:47,407 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:29:47,411 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:31:18,883 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:31:18,891 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:31:18,901 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:33:05,960 [Worker-58: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:33:05,969 [Worker-58: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:33:05,972 [Worker-58: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:39:54,286 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:39:54,317 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:39:54,321 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:40:59,079 [Worker-69: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:40:59,087 [Worker-69: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:40:59,090 [Worker-69: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:45:22,990 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:45:23,001 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:45:23,005 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:45:55,825 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:45:55,840 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:45:55,846 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:46:20,610 [Worker-71: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:46:20,619 [Worker-71: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:46:20,622 [Worker-71: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:51:19,320 [Worker-77: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:51:19,332 [Worker-77: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:51:19,334 [Worker-77: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:52:48,223 [Worker-77: Launching ConsultaCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:52:48,231 [Worker-77: Launching ConsultaCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:52:48,235 [Worker-77: Launching ConsultaCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:53:40,936 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:53:40,946 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:53:40,950 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-17 20:55:18,237 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:55:18,244 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 20:55:18,247 [Worker-74: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 16:54:30,937 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 18:04:42,997 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:04:43,064 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:04:43,072 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:04:55,493 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:04:55,501 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:04:55,506 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:16:42,595 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:42,605 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:16:42,612 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:17:10,041 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:10,051 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:17:10,056 [Worker-15: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:18:06,097 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:06,109 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:18:06,112 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:18:07,975 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-18 18:18:08,463 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks:algafood-api:0.0.1-SNAPSHOT @ C:\projeto algafood\algafood-api\pom.xml.
+2023-01-18 18:18:09,028 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algafood-api/src/main/java
+2023-01-18 18:18:09,028 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algafood-api/src/main/resources
+2023-01-18 18:18:09,028 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /algafood-api/src/main/resources
+2023-01-18 18:18:09,029 [Worker-20: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /algafood-api/src/test/java
+2023-01-18 18:18:09,374 [Worker-20: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-01-18 18:18:09,720 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:09,739 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:18:09,746 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:31:06,813 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:31:06,835 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:31:06,837 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:32:12,989 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:32:13,020 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:32:13,028 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:33:45,691 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:33:45,727 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:33:45,732 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:33:49,500 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:33:49,533 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 18:33:49,538 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-18 18:34:25,713 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:34:25,723 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 18:34:25,728 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-25 14:14:30,577 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-25 15:30:48,660 [Worker-26: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 15:30:48,711 [Worker-26: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 15:30:48,716 [Worker-26: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-25 16:04:25,186 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:04:25,219 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:04:25,243 [Worker-28: Launching InclusaoCozinhaMain] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-25 16:08:22,526 [Worker-29: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:08:22,535 [Worker-29: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:08:22,540 [Worker-29: Building Workspace] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-25 16:11:33,074 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:11:33,085 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:11:33,090 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\projeto algafood\algafood-api\src\test\resources
+2023-01-25 16:12:15,788 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-25 16:12:15,793 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
